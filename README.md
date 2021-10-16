@@ -9,7 +9,7 @@
   <h3 align="center">CLONE</h3>
 
   <p align="center">
-    An website with similar functionality like medium
+    An website with similar functionality like DisneyPlus
     <br />
     <a href="https://github.com/palacharlanarendra"><strong>Explore the docs »</strong></a>
     <br />
